@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/arc-core/arc-go/internal/storage"
-	_ "github.com/duckdb/duckdb-go/v2"
+	_ "github.com/marcboeker/go-duckdb/v2"
 	"github.com/sirupsen/logrus"
 )
 
